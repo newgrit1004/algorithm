@@ -1,0 +1,9 @@
+--mysql v8.0.28
+CREATE PROCEDURE solution()
+BEGIN
+	SELECT name
+	FROM leaderboard
+	ORDER BY SCORE DESC
+	LIMIT 5
+	OFFSET 3;
+END
