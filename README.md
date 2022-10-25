@@ -3,9 +3,11 @@ Python
 - acmicpc(백준)
 - codesignal
 - codility
-- leetcode  
+- leetcode
 - programmers
 
 SQL
+- codesignal
 - hackerrank
 - programmers
+
